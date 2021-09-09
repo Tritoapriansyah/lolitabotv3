@@ -36,7 +36,8 @@
     "twitter-url-direct": "^1.0.1",
     "util": "^0.12.4",
     "yt-search": "^2.8.0",
-    "google-it": "^1.6.2"
+    "google-it": "^1.6.2",
+    "fake-useragent": "^1.0.1"
     
   },
   "repository": {
